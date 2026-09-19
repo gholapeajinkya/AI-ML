@@ -1,7 +1,5 @@
 jupyter
 matplotlib
 numpy
-ipykernel
 scikit-learn
-gensim
 datasets
