@@ -38,5 +38,7 @@ Youtube video: https://www.youtube.com/watch?v=iLRZi0Gu8Go
     pip install -r requirements.txt
 
 ---
+### References
 
-
+https://manikanthgoud123.medium.com/understanding-contextualized-word-embeddings-the-evolution-of-language-understanding-in-ai-8bf79a98eb51
+https://youtu.be/ZhAz268Hdpw
