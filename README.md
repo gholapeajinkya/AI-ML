@@ -104,7 +104,7 @@ Contents of this readme file are created from [this video](https://www.youtube.c
 - [ ] **Learning Resources:**
   - 🎥 [Intro to Large Language Models (Andrej Karpathy)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - 🌐 [Zero to Hero Course (Andrej Karpathy - Optional)](https://karpathy.ai/zero-to-hero.html)
-  - 📖 [Hugging Face LLM Course - Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1)
+  - 📖 [Hugging Face LLM Course - Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1) 🔄
 
 </details>
 
