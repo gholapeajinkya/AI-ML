@@ -40,10 +40,10 @@
 
 #### 🔹 Week 1: Core Python, Tooling & Project 1 (News Summarizer)
 - [ ] **Concepts to Master:**
-  - [ ] Python syntax, variables, data structures, classes, and modular imports
-  - [ ] Package & environment management with `uv`
-  - [ ] Git workflow: cloning, branching, committing, pushing, and Pull Requests
-  - [ ] OpenAI API integration, HTTP status codes, and JSON handling
+  - [x] Python syntax, variables, data structures, classes, and modular imports
+  - [x] Package & environment management with `uv`
+  - [x] Git workflow: cloning, branching, committing, pushing, and Pull Requests
+  - [x] OpenAI API integration, HTTP status codes, and JSON handling
   - [ ] Unit testing (isolated functions) & integration testing (API endpoints)
 - [ ] **Project Milestone:**
   - [ ] Build **Project 1: News Summarizer** (CSV input $\rightarrow$ `pandas` $\rightarrow$ OpenAI API summary $\rightarrow$ `pytest` coverage)
@@ -57,8 +57,10 @@
 
 #### 🔹 Week 2: Continuous Integration & Machine Learning Foundations
 - [ ] **Concepts to Master:**
-  - [ ] Continuous Integration (CI) test automation on GitHub PRs
+  - [x] Continuous Integration (CI) test automation on GitHub PRs
   - [ ] (Optional) ML foundations: regression, decision trees, random forests
+    - [x] Linear regression
+    - [x] Gradient decent
   - [ ] Overfitting vs. underfitting, bias-variance tradeoff, precision, recall, and data leakage
 - [ ] **Learning Resources:**
   - 📖 [GitHub Skills - Test with Actions](https://github.com/skills/test-with-actions)
@@ -83,6 +85,8 @@
   - [ ] Model weights, training vs. inference, and backpropagation principles
   - [ ] Transformer architecture & self-attention mechanisms
   - [ ] Tokenization, text embeddings, and context window dynamics
+    - [ ] Types of embeddings
+      - [ ] Word2Vec algorithm  [CBOW (Continuous bag of words), Skip gram]
 - [ ] **Learning Resources:**
   - 🎥 [Intro to Large Language Models (Andrej Karpathy)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - 🌐 [Zero to Hero Course (Andrej Karpathy - Optional)](https://karpathy.ai/zero-to-hero.html)
@@ -182,17 +186,6 @@
   - 💻 [Observable Job Agent Open-Source Repository](https://github.com/jamwithai/observable-job-agent)
 
 ---
-
-## 📝 How to Use This Tracker in GitHub
-
-1. Save this file as `PROGRESS.md` or `README.md` in your learning project repository.
-2. Mark tasks as complete by changing `- [ ]` to `- [x]`.
-3. Commit your progress updates as you complete each week's milestones:
-   ```bash
-   git add PROGRESS.md
-   git commit -m "docs: complete week 1 milestones and project 1 initial setup"
-   git push origin main
-   ```
 
 
 # Learn LLM
